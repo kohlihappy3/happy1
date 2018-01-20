@@ -2,7 +2,7 @@
 public class Class2_Reverse_HappyKohli {
 	public static void main(String[] args)
 	{
-		int num=12355,r=0;
+		int num=Integer.parseInt(args[0]),r=0;
 		while(num!=0)
 		{
 			int a=num%10;

@@ -1,0 +1,9 @@
+
+public class RecArea {
+	public static void main(String[] args)
+	{
+		Rectangle r= new Rectangle();
+		r.CalculateArea(10,15);
+	}
+
+}

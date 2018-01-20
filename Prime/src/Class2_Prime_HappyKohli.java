@@ -2,7 +2,7 @@
 public class Class2_Prime_HappyKohli {
 	public static void main(String[] args)
 	{
-		int num=13;
+		int num= Integer.parseInt(args[0]);
 		int i,m=0,flag=0;
 		m=num/2;
 		if(num==0||num==1){

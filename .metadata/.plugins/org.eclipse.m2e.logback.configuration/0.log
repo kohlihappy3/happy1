@@ -258,3 +258,4 @@ Caused by: java.net.UnknownHostException: download.eclipse.org
 	... 13 common frames omitted
 2018-01-20 16:06:50,958 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2018-01-20 16:06:52,960 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-01-20 16:43:39,410 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

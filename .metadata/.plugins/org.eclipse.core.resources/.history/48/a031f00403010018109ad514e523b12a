@@ -1,0 +1,7 @@
+
+public class Ovld {
+	public static void main(String[] args){
+		B.print(22);
+	}
+
+}

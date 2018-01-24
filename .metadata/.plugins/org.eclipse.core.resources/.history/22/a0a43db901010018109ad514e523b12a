@@ -1,0 +1,11 @@
+
+public class Operation {
+	public static void  main(String[] args){
+		Dog d=new Dog();
+		d.speak();
+		/*Dog.speak();
+		Cat.speak();
+		Animal.speak();*/
+	}
+
+}

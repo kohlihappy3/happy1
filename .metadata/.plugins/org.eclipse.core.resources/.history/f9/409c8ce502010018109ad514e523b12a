@@ -1,0 +1,8 @@
+
+public class C {
+	public static void print(float i)
+	{
+		System.out.println("Hello ");
+	}
+
+}

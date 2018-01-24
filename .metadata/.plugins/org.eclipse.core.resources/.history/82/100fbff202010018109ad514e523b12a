@@ -1,0 +1,8 @@
+
+public class C extends A {
+	public static void print(float i)
+	{
+		System.out.println("Hello ");
+	}
+
+}

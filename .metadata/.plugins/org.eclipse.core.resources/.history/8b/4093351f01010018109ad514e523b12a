@@ -1,0 +1,8 @@
+
+public class Operation {
+	public static void  main(){
+		Dog d=new Dog();
+		d.speak();
+	}
+
+}

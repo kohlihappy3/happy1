@@ -1,0 +1,10 @@
+
+public class ParseValue {
+	public static void main(String[]args)
+	{
+		String a="123";
+		String b="225";
+		
+	}
+
+}

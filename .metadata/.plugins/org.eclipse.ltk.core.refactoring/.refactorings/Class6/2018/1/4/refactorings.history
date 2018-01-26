@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ParseValue&apos; to &apos;Casting&apos;&#x0D;&#x0A;- Original project: &apos;Class6&apos;&#x0D;&#x0A;- Original element: &apos;ParseValue&apos;&#x0D;&#x0A;- Renamed element: &apos;Casting&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ParseValue&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ParseValue.java[ParseValue" matchStrategy="1" name="Casting" qualified="false" references="true" similarDeclarations="false" stamp="1516952068992" textual="false" version="1.0"/>
+</session>

@@ -1,8 +1,0 @@
-
-public class Class1_Myname_HappyKohli {
-	 public  void static main(String[] args)
-	{
-		System.out.print("Happy KOHLI");
-	}
-
-}

@@ -1,0 +1,17 @@
+
+public class SubStrings {
+	public static void main(String[] args){
+		String a="xyz",b=;
+		int x;
+		x=a.length();
+		StringBuffer y=new StringBuffer();
+		for(int i=0;i<x;i++){
+			for(int j=0;j<i+1;j++){
+				b=(a.substring(i,j));
+				System.out.println(b);
+				
+			}
+		}
+	}
+
+}

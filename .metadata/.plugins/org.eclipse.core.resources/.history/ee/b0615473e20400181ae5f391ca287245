@@ -1,0 +1,15 @@
+
+public class Pattern {
+	public static void main(String[] args){
+		
+		for(int i='a';i<'d';i++){
+			for(int j='a';j<=i;j++){
+				System.out.println((char)(j));
+				
+			}
+			System.out.println();
+			
+		
+		}
+	}
+}

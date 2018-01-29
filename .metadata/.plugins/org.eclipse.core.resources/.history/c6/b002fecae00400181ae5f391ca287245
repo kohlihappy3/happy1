@@ -1,0 +1,18 @@
+
+public class Pattern {
+	public static void main(String[] args){
+		int i=0;
+		int j=0;
+		char s='a';
+		for(int m=0;m<3;m++){
+			s='a';			
+			for(int n=0;n<=i;n++){
+				System.out.println(s);
+				s++;
+			}
+			System.out.println("");
+		}
+}
+	
+
+}

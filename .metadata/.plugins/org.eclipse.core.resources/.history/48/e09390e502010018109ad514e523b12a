@@ -1,8 +1,0 @@
-
-public class B {
-	public static void print(int i)
-	{
-		System.out.println("Hello ");
-	}
-
-}

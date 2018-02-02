@@ -1,0 +1,5 @@
+import java.nio.file.*;
+public class File {
+	FileReader f=new FileReader("C:\Users\Happy Kohli\Desktop\happy.txt");
+
+}

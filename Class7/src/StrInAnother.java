@@ -9,7 +9,6 @@ public class StrInAnother {
 		x=s.nextLine();
 		System.out.println("Enter The String You Want To Check: ");
 		y=s.nextLine();
-		StringBuffer st=new StringBuffer();
 		if(x.contains(y)){
 			System.out.println(x+ " Contains " +y);	
 		}else{

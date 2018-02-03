@@ -18,3 +18,14 @@ public class Path {
 	}
 	
 	}}
+/*File files[]=file.listFiles();
+for(int i=0;i<files.length;i++){
+	System.out.println("Name of File is :"+files[i].getName()+ "       ----------  "+"Path Of File Is :"+files[i].getPath());
+}
+
+
+
+
+
+}
+}*/

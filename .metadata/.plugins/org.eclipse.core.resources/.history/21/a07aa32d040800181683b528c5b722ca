@@ -1,0 +1,11 @@
+import java.io.*;
+public class Work {
+	public static void main(String[] args)throws IOException{
+		File file = new File("C:/Users/Happy Kohli/Desktop");
+		FileReader f= new FileReader(file);
+		try{
+			
+		}
+	}
+
+}

@@ -1,0 +1,34 @@
+import java.io.*;
+import java.util.*;
+public class Work {
+	public static void main(String[] args) throws IOException{
+		Scanner s = new Scanner(System.in);
+		System.out.println("Enter the path of file: ");
+		String a=s.nextLine();
+		//File file = new File("C:/Users/Happy Kohli/Desktop/xyz.txt");
+		FileReader f=new FileReader(a);
+		int c;
+		try{
+			while((c=f.read())!=10){
+				System.out.print((char)c);			
+			}
+			
+		}finally{
+			
+		}
+	}
+}
+
+
+			/*File files[]=file.listFiles();
+			for(int i=0;i<files.length;i++){
+				System.out.println("Name of File is :"+files[i].getName()+ "       ----------  "+"Path Of File Is :"+files[i].getPath());
+			}
+			
+			
+			
+			
+			
+		}
+	}*/
+
